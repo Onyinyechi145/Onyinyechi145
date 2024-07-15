@@ -9,6 +9,5 @@
 - ⚡ Fun fact: I love to meet people and leave a smile on their faces no one is an island and we all need eachother to survive 
 
 
-Onyinyechi145/Onyinyechi145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
